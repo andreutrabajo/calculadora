@@ -8,7 +8,7 @@ package calculadora;
  */
 public class Calculadora {
 	/**
-	 * variables
+	 * variables holis
 	 * 
 	 */
     private int num1;
