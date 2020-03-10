@@ -2,7 +2,7 @@ package calculadora;
 /**
  * 
  * 
- * @author Andreu
+ * @author andreutrabajo
  * @version 1.0
  *
  */
